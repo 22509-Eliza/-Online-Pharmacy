@@ -1,32 +1,32 @@
-# 🏥 Health Zone Pharmacy
+# Health Zone Pharmacy
 
 Online Pharmacy web application built with **HTML, CSS, JavaScript, PHP, and MySQL**.  
 The project simulates a real e-commerce system with user authentication, shopping cart, checkout, and admin dashboard.
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 👤 User System
+### User System
 - User registration & login
 - Session-based authentication (PHP)
 - Admin vs customer roles
 
-### 🛒 Shopping System
+### Shopping System
 - Product listing with categories
 - Search & filtering system
 - Add to cart functionality
 - Quantity update / remove items
 - Persistent cart (MySQL-based)
 
-### 💳 Checkout System
+### Checkout System
 - Shipping information form
 - Payment form (simulation)
 - Order creation
 - Order items storage
 - Cart clearing after purchase
 
-### 🛠 Admin Panel
+### Admin Panel
 - Add / edit / delete products
 - View orders
 - View users
@@ -34,7 +34,7 @@ The project simulates a real e-commerce system with user authentication, shoppin
 
 ---
 
-## 🧱 Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -46,7 +46,7 @@ The project simulates a real e-commerce system with user authentication, shoppin
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 HealthZonePharmacy/
